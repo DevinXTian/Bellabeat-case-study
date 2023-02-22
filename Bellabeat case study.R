@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(dplyr)
-library(readr)
+
 
 dailyActivity <- read_csv("D:/R projects/dailyActivity_merged.csv")
 sleepDay <- read_csv("D:/R projects/sleepDay_merged.csv")
